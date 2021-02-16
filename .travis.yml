@@ -1,5 +1,7 @@
 language: c
-
+arch: 
+  - amd64
+  - ppc64le
 env:
 - USER_LANGUAGE="en"
 - USER_NO_STOP="y"
